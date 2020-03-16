@@ -1,3 +1,4 @@
+#a nonsense work to finish the college assignment
 #创新点：最短路以可视化方式实现，参数可自行设置，增加了层数的设定
 from tkinter import *
 from tkinter import messagebox
